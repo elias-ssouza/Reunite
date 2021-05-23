@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Reunite</string>
+    <string name="title_categorias">Categorias</string>
+    <string name="title_produtos">Produtos</string>
+    <string name="title_activity_product_detail">ProductDetailActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <!-- Cadastro de Usuário -->
+    <string name="user_register_cadastrar">Cadastrar</string>
+    <string name="user_register_senha">Senha</string>
+    <string name="user_register_email">Email</string>
+    <string name="user_register_nome">Nome</string>
+    <string name="user_register_title">Cadastro de Usuário</string>
+
+    <!-- Login de Usuário -->
+    <string name="user_login_entrar">Entrar</string>
+    <string name="user_login_esqueceu_sua_senha">Esqueceu sua senha?</string>
+    <string name="user_login_primeiro_acesso">Primeiro acesso?</string>
+    <string name="user_login_cadastrar">Cadastrar</string>
+    <string name="user_login_title">Login</string>
+
+    <!-- Menu Drawer -->
+    <string name="menu_home">Home</string>
+    <string name="menu_minhaconta">Minha Conta</string>
+    <string name="menu_meusagendamentos">Agendar</string>
+    <string name="menu_sair">Sair</string>
+    <string name="toogle_open">Open</string>
+    <string name="toogle_close">Close</string>
+
+    <!-- Perfil do Usuário -->
+    <string name="user_profile_sobrenome">Sobrenome</string>
+    <string name="user_profile_atualizar">Atualizar</string>
+    <string name="user_profile_title">Perfil</string>
+
+    <!-- Configurações -->
+    <string name="settings_title">Configurações</string>
+    <string name="menu_configuracoes">Configurações</string>
+    <string name="my_schedule_productdetail">Agendamentos</string>
+
+    <!-- Criar Evento -->
+    <string name="create_new_event">Marcar Reunião</string>
+    <string name="event_cancelar">Cancelar</string>
+    <string name="event_ok">Ok</string>
+    <string name="double_dots">:</string>
+    <string name="selecione_horario">SELECIONE HORÁRIO</string>
+    <string name="selecione_dia">SELECIONE DIA</string>
+
+    <!-- Selecionar Cor -->
+    <string name="dialog_color_selecione_cor">SELECIONE COR</string>
+    <string name="dialog_color_cancelar">Cancelar</string>
+    <string name="select_date_time_cancelar">Cancelar</string>
+    <string name="select_date_time_confirmar">Confirmar</string>
+    <string name="pager_sem_registros">SEM REGISTROS</string>
+    <string name="activity_main_title">Reunite</string>
+
+
+</resources>
